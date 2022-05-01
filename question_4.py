@@ -29,3 +29,5 @@ print(bbox2[0][0][3][0])
 
 d = (baseline * focal_length)/(bbox1[0][0][3][0]-bbox2[0][0][3][0])
 print(d)
+# disparity = 155 cm
+# actual measurement = 153 cm
